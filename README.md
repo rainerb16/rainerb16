@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Rainer and I am a Queer non-binary Full Stack Development Student in Calgary, Canada. I'm currently
+My name is Rainer and I am a Full Stack Development Student in Calgary, Canada. I'm currently
 enrolled in a Full Stack Development Diploma program, graduating in December of 2020. I am a driven, passionate, 
 and curious learner with a willingness to learn. I'm looking forward to entering the tech industry and seeking an 
 internship or junior role towards the end of my studies.
