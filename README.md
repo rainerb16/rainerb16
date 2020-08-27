@@ -10,8 +10,9 @@ electronic music. I also currently co-own a digital record label that is focused
 
 - 😄 Pronouns: They/Them
 
-- 🔭 I’m currently working on: My Full Stack Dev program! Learning Git, HTML, CSS, JavaScript, Vue, Python, Django, SQL,
-MariaDB, and Google Cloud Technology (plus a few more). I'd like to learn Java and C# in the future.
+- 🔭 I’m currently working on: My Full Stack Dev program! I'd like to learn Java and C# in the future.
+
+- 💻 I have experience with: HTML5, CSS, Sass, JavaScript, Python, Google Cloud Technology, Git, and Figma.
 
 - 📫 How to reach me: hello@rainerb.com or www.rainerb.com
 
