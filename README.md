@@ -10,7 +10,7 @@ Things I do with my spare time include camping, fishing, and play old school ret
 
 - 😄  Pronouns: They/Them
 
-- 🔭  I’m currently working on: My Full Stack Dev program! I'd like to learn CC# in the future and dip into Game Development.
+- 🔭  I’m currently working on: My Full Stack Dev program! I'd like to learn C# and dip into Game Development in the future.
 
 - 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Python, Google Cloud Technology, Git, Asana and Figma.
 
