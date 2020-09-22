@@ -5,7 +5,7 @@ enrolled in a Full Stack Development Diploma program, graduating in December of 
 and curious learner with a willingness to learn. I'm looking forward to entering the tech industry and seeking an 
 internship or junior role towards the end of my studies.
 
-Things I do with my spare time include camping, fishing, and play old school retro 2d games. 
+Things I do with my spare time include camping, fishing, and playing old school retro 2d games. 
 
 
 - 😄  Pronouns: They/Them
