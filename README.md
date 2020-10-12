@@ -12,7 +12,7 @@ Things I do with my spare time include camping, fishing, and playing old school 
 
 - 🔭  I’m currently working on: My Full Stack Dev program! I'd like to learn C# and dip into Game Development in the future.
 
-- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Python, Google Cloud Technology, Git, Asana and Figma.
+- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, p5.js, Python, Google Cloud Technology, Git, Asana and Figma.
 
 - 📫  How to reach me: hello@rainerb.com or www.rainerb.com
 
