@@ -14,6 +14,6 @@ Things I do with my spare time include camping, fishing, and playing old school 
 
 - 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, p5.js, Python, Google Cloud Technology, Git, Asana and Figma.
 
-- 📫  How to reach me: hello@rainerb.com or www.rainerb.com
+- 📫  How to reach me: hello@rainerb.com or www.rainerb.ml
 
 
