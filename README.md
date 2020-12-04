@@ -1,18 +1,20 @@
 ### Hey There! 👋
 
-My name is Rainer and I am a Full Stack Development Student in Calgary, Canada. I'm currently
-enrolled in a Full Stack Development Diploma program, graduating in December of 2020. I am a driven, passionate, 
-and curious learner with a willingness to learn. I'm looking forward to entering the tech industry and seeking an 
-internship or junior role towards the end of my studies.
+My name is Rainer and I am a Junior Full Stack Developer in Calgary, Alberta. I have a passion for creative coding and my main stack 
+is V-LAMP. I am also a music producer and audio engineer outside of coding. The feeling you get when you finish producing a song is a 
+feeling of completion, satisfaction and joy. This is the same feeling I get when I complete a coding project, being able to take parts 
+of code, put them together and see everthing work is a wonderful feeling.
 
-Things I do with my spare time include camping, fishing, and playing old school retro 2d games. 
+Things I do with my spare time include producing music, mastering music, camping, fishing, and playing old school retro 2d games. 
 
 
 - 😄  Pronouns: They/Them
 
-- 🔭  I’m currently working on: My Full Stack Dev program! I'd like to learn C# and dip into development in the music or gaming industry in the future.
+- 🔭  I’m currently working on: my Minimum Value Product. I am currently coding a techno music sequencer in the web browser with p5.js/JavaScript. 
+The hope is to be able to turn this into a full Digital Audio Workstation in the end. I have a long way to go but the initial (and basic) processes
+are in place. 
 
-- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, p5.js, Python, Google Cloud Technology, Git, Asana and Figma.
+- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, p5.js, Python, SQL, MariaDB, Google Cloud Technology, Git, Asana and Figma.
 
 - 📫  How to reach me: hello@rainerb.com or www.rainerb.ml
 
