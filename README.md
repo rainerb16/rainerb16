@@ -10,11 +10,11 @@ Things I do with my spare time include producing music, mastering music, camping
 
 - 😄  Pronouns: They/Them
 
-- 🔭  I’m currently working on: my Minimum Value Product. I am currently coding a techno music sequencer in the web browser with p5.js/JavaScript. 
+- 🔭  I’m currently working on: I am currently coding a techno music sequencer in the web browser with p5.js/JavaScript. 
 The hope is to be able to turn this into a full Digital Audio Workstation in the end. I have a long way to go but the initial (and basic) processes
 are in place. 
 
-- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, p5.js, Python, SQL, MariaDB, Google Cloud Technology, Git, Asana and Figma.
+- 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, React, p5.js, Python, SQL, MariaDB, Google Cloud Technology, Git, Contentful, Asana and Figma.
 
 - 📫  How to reach me: hello@rainerb.com or www.rainerb.ml
 
