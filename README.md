@@ -10,7 +10,7 @@ Things I do with my spare time include producing music, mastering music, camping
 
 - 😄  Pronouns: They/Them
 
-- 🔭  I’m currently working on: Mastering React!
+- 🔭  I’m currently working on: Mastering React and Creative Coding with p5.js!
 
 - 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, React, p5.js, Python, SQL, MariaDB, Google Cloud Technology, Git, Contentful, Asana and Figma.
 
