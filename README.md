@@ -5,7 +5,7 @@ but the stack I learned in school is V-LAMP. I am also a music producer and audi
 producing a song is a feeling of completion, satisfaction and joy. This is the same feeling I get when I complete a coding project, being able to 
 take parts of code, put them together and see everthing work is a wonderful feeling.
 
-Things I do with my spare time include producing music, mastering music, camping, fishing, and playing old school retro 2d games. 
+Things I do with my spare time include producing electronic music, mastering music, creative coding, camping, and fishing. 
 
 
 - 😄  Pronouns: They/Them
