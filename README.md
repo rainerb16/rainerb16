@@ -14,6 +14,6 @@ Things I do with my spare time include producing electronic music, mastering mus
 
 - 💻  I have experience with: HTML5, CSS, Sass, JavaScript, Vue.js, React, p5.js, Python, SQL, MariaDB, Google Cloud Technology, Git, Contentful, Asana and Figma.
 
-- 📫  How to reach me: hello@rainerb.com or www.rainerb.ml
+- 📫  How to reach me: hello@rainerb.com or www.rainerb.com
 
 
